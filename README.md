@@ -1,5 +1,6 @@
 # Andrada Iorgulescu
-A directory/index of my portfolio
+Hello! My name is Andrada Iorgulescu and this is my Sound Design and Programming Portfolio. I have made this page to serve as a directory/index of all my projects. I've organized everything by which skillset it falls under. Thanks for stopping by!
+
 
 ## Sound Design 
 [Rhythm](https://github.com/andraiorgules/Rhythm)
