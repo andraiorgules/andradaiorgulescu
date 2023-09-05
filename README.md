@@ -30,6 +30,8 @@ Hello! My name is Andrada Iorgulescu and this is my Sound Design and Programming
 
 ## Wwise
 
+## Raspberry Pi
+
 ## Pure Data
 
 ## Processing
